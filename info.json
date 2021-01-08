@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "e2125914e60297c9c4534b581ab00eb2a0937ac5",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-01-08 19:34:28",
+    "files": 8,
+    "merge": false,
+    "message": "#22 add dc_cn fxn for datacite content negotation\n"
+  },
+  "remote": "https://github.com/ropensci/rdatacite",
+  "pkg": "rdatacite"
+}
