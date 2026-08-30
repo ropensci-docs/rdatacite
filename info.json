@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b86e18346d60ebaa279c047e6d27276051aed282",
+    "author": "Bianca Kramer <bianca.kramer@gmail.com>",
+    "time": "2023-01-02T23:01:57Z",
+    "files": 1,
+    "merge": false,
+    "message": "update test environments and results\n"
+  },
+  "repo": "https://github.com/ropensci/rdatacite",
+  "pkg": "rdatacite",
+  "time": "2026-08-30T07:11:29Z"
+}
